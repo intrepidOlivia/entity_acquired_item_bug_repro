@@ -16,3 +16,5 @@ The `entity_acquired_item` event does not fire when it should. Only the `pick_up
 - Making a trade with a villager
 - Creating something with the crafting table
 - Retrieving an item from a chest.
+
+This bug is being tracked on the Mojang Bug Tracker: [MCPE-136964](https://bugs.mojang.com/browse/MCPE-136964)
