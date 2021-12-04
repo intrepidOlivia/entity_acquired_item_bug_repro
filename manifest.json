@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "A repro of the entity_acquired_item bug",
+    "name": "Entity Acquired Item bug",
+    "uuid": "fbf59670-554b-11ec-bf63-0242ac130002",
+    "version": [ 0, 1, 0 ],
+    "min_engine_version": [ 1, 13, 0 ]
+  },
+  "modules": [
+    {
+      "description": "Server scripts",
+      "type": "data",
+      "uuid": "1439b43c-554c-11ec-bf63-0242ac130002",
+      "version": [ 0, 1, 0 ]
+    }
+  ]
+}
